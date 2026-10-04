@@ -1,20 +1,23 @@
 # 👋 Hi, I'm Shivpal Chaurasiya
 
-### 💻 Frontend Developer | JavaScript | Building Real Projects
+### 💻 Frontend Developer | JavaScript | Building Real-World Projects
 
-I’m a B.Tech student passionate about **Web Development** and building practical, responsive and interactive web applications.
+I'm a B.Tech student passionate about **Web Development, JavaScript, and Data Science**.
 
-I enjoy learning by building projects and turning ideas into real-world applications. 🚀
+I enjoy learning by building practical projects, experimenting with new technologies, and turning ideas into **responsive, interactive, and user-friendly applications.** 🚀
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Focused on **Frontend Development**
-- 🌱 Currently learning **JavaScript, React & Data Science**
-- 🛠️ Building projects to improve my development skills
-- 🎯 Working towards becoming a strong Software Developer
-- 📚 Always learning something new
+- 💻 Focused on **Frontend & Web Development**
+- ⚡ Building projects with **HTML, CSS & JavaScript**
+- 🐍 Learning **Python & Data Science**
+- 📊 Exploring **NumPy, Pandas, Statistics & Machine Learning**
+- ⚛️ Learning **React.js**
+- 🛠️ Building projects to strengthen my development skills
+- 🎯 Working towards becoming a **strong Software Developer**
+- 📚 Learning something new every day
 - 🇮🇳 Based in India
 
 ---
@@ -23,21 +26,23 @@ I enjoy learning by building projects and turning ideas into real-world applicat
 
 ### 🌐 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 💻 Programming
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+\
+
+
+### 🐍 Programming & Data
+
+
+&#x20;     
+\
+
 
 ### 🛠️ Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+\
+
 
 ---
 
@@ -45,7 +50,7 @@ I enjoy learning by building projects and turning ideas into real-world applicat
 
 ### 💰 AURA Finance
 
-A personal finance web application focused on managing transactions, expenses, analytics and financial goals.
+A modern personal finance web application for managing **transactions, expenses, budgets, financial goals, and analytics**.
 
 **Tech:** HTML • CSS • JavaScript • Chart.js • LocalStorage
 
@@ -53,7 +58,7 @@ A personal finance web application focused on managing transactions, expenses, a
 
 ### 🛍️ Myntra Clone
 
-A functional e-commerce frontend inspired by Myntra with product search, sorting, shopping bag and dynamic product handling.
+A functional e-commerce frontend inspired by Myntra with **product search, sorting, shopping bag, wishlist, notifications, and dynamic product handling**.
 
 **Tech:** HTML • CSS • JavaScript • LocalStorage
 
@@ -61,15 +66,23 @@ A functional e-commerce frontend inspired by Myntra with product search, sorting
 
 ### 🌦️ Weather App
 
-A weather application that fetches weather information using an API and displays it through a simple user-friendly interface.
+A weather application that fetches weather information using an API and presents it through a clean and responsive interface.
 
-**Tech:** HTML • CSS • JavaScript • PHP • API
+**Tech:** HTML • CSS • JavaScript • API
 
 ---
 
 ### 👨‍💻 Personal Portfolio
 
-A responsive portfolio website showcasing my skills, projects and development journey.
+A responsive developer portfolio showcasing my **skills, projects, experience, and development journey**.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+### ⚡ 30 JavaScript Projects
+
+A collection of JavaScript projects built while practicing **DOM manipulation, events, APIs, logic, UI interactions, and modern JavaScript concepts**.
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -77,28 +90,74 @@ A responsive portfolio website showcasing my skills, projects and development jo
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivpal18&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivpal18&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=shivpal18&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=shivpal18\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="180"/>
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=shivpal18&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=shivpal18\&layout=compact\&theme=tokyonight\&hide_border=true)" height="180"/>
+\</p>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivpal18&theme=tokyonight&hide_border=true"/>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://streak-stats.demolab.com?user=shivpal18&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=shivpal18\&theme=tokyonight\&hide_border=true)"/>
+\</p>
 
 ---
 
 ## 🎯 Currently Learning
 
 ```text
+JavaScript & Advanced Concepts
+          ↓
+      React.js
+          ↓
+       Python
+          ↓
+      NumPy & Pandas
+          ↓
+ Statistics & Data Analysis
+          ↓
+  Machine Learning
+          ↓
+ Deep Learning & AI
+```
+
+---
+
+## 📈 My Development Journey
+
+```text
+HTML & CSS
+    ↓
 JavaScript
-   ↓
+    ↓
+Real-World Projects
+    ↓
 React.js
-   ↓
-Data Science
-   ↓
+    ↓
+Python & Data Science
+    ↓
 Machine Learning
+    ↓
+AI & Deep Learning
+```
+
+---
+
+## 🤝 Connect With Me
+
+\<p align="left">
+&#x20; \<a href="[https://github.com/shivpal18](https://github.com/shivpal18)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>
+&#x20; \</a>
+&#x20; \<a href="[https://www.linkedin.com/](https://www.linkedin.com/)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>
+&#x20; \</a>
+\</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+💡 *Keep learning. Keep building. Keep improving.*
