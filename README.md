@@ -61,7 +61,6 @@ I have already built a strong foundation in **Web Development and JavaScript**, 
 ## 💻 Programming
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -235,10 +234,11 @@ A responsive portfolio website created to showcase my projects, skills and devel
                        │
                        ▼
                      AI 🚀
+```
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
