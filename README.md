@@ -89,6 +89,28 @@ I have already built a strong foundation in **Web Development and JavaScript**, 
 
 ---
 
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shivpal18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivpal18&layout=donut&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shivpal18&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
 # 🚀 Featured Projects
 
 ## 💰 AURA Finance
