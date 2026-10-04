@@ -1,163 +1,233 @@
+<div align="center">
+
 # 👋 Hi, I'm Shivpal Chaurasiya
 
-### 💻 Frontend Developer | JavaScript | Building Real-World Projects
+### 📊 Data Science • Python • Machine Learning • Data Analytics
 
-I'm a B.Tech student passionate about **Web Development, JavaScript, and Data Science**.
+Building my journey from **Python & Data Analysis → Machine Learning → AI**
 
-I enjoy learning by building practical projects, experimenting with new technologies, and turning ideas into **responsive, interactive, and user-friendly applications.** 🚀
+<br>
 
----
+<img src="https://img.shields.io/badge/Data%20Science-Current%20Focus-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Next%20Goal-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-## 🚀 About Me
-
-- 💻 Focused on **Frontend & Web Development**
-- ⚡ Building projects with **HTML, CSS & JavaScript**
-- 🐍 Learning **Python & Data Science**
-- 📊 Exploring **NumPy, Pandas, Statistics & Machine Learning**
-- ⚛️ Learning **React.js**
-- 🛠️ Building projects to strengthen my development skills
-- 🎯 Working towards becoming a **strong Software Developer**
-- 📚 Learning something new every day
-- 🇮🇳 Based in India
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## 🧑‍💻 About Me
 
-### 🌐 Frontend
+I'm a B.Tech student currently focused on **Data Science and Machine Learning**.
 
+I believe the best way to learn technology is by **building real projects, experimenting with data, solving problems, and continuously improving.**
 
+I have already built a strong foundation in **Web Development and JavaScript**, and I'm now using that development background while moving deeper into the world of **Data Science, Machine Learning and AI**.
 
-\
-
-
-### 🐍 Programming & Data
-
-
-&#x20;     
-\
-
-
-### 🛠️ Tools
-
-
-\
-
+- 📊 Currently focused on **Data Science**
+- 🐍 Learning and practicing **Python**
+- 🔢 Working with **NumPy & Pandas**
+- 📈 Learning **Statistics & Data Analysis**
+- 🗄️ Learning **SQL**
+- 🤖 Moving towards **Machine Learning**
+- 🧠 Future focus: **Deep Learning & AI**
+- 🌐 Strong foundation in **Web Development**
+- 🛠️ Learning through real-world projects
+- 🎯 Long-term goal: **Data Scientist / ML Engineer**
 
 ---
 
-## 🚀 Featured Projects
+# 🧰 Tech Stack
 
-### 💰 AURA Finance
+## 📊 Data Science & Analytics
 
-A modern personal finance web application for managing **transactions, expenses, budgets, financial goals, and analytics**.
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
 
-**Tech:** HTML • CSS • JavaScript • Chart.js • LocalStorage
+## 🤖 Machine Learning
 
----
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-Learning-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-Coming%20Soon-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
 
-### 🛍️ Myntra Clone
+## 💻 Programming
 
-A functional e-commerce frontend inspired by Myntra with **product search, sorting, shopping bag, wishlist, notifications, and dynamic product handling**.
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-**Tech:** HTML • CSS • JavaScript • LocalStorage
+## 🌐 Web Development Foundation
 
----
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
-### 🌦️ Weather App
+## 🛠️ Tools
 
-A weather application that fetches weather information using an API and presents it through a clean and responsive interface.
-
-**Tech:** HTML • CSS • JavaScript • API
-
----
-
-### 👨‍💻 Personal Portfolio
-
-A responsive developer portfolio showcasing my **skills, projects, experience, and development journey**.
-
-**Tech:** HTML • CSS • JavaScript
-
----
-
-### ⚡ 30 JavaScript Projects
-
-A collection of JavaScript projects built while practicing **DOM manipulation, events, APIs, logic, UI interactions, and modern JavaScript concepts**.
-
-**Tech:** HTML • CSS • JavaScript
-
----
-
-## 📊 GitHub Stats
-
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=shivpal18&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=shivpal18\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="180"/>
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=shivpal18&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=shivpal18\&layout=compact\&theme=tokyonight\&hide_border=true)" height="180"/>
-\</p>
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
 ---
 
-## 🔥 Contribution Streak
+# 🚀 Featured Projects
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=shivpal18&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=shivpal18\&theme=tokyonight\&hide_border=true)"/>
-\</p>
+## 💰 AURA Finance
+
+A modern personal finance application focused on managing transactions, expenses, budgets, financial goals and analytics.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `Chart.js` `LocalStorage`
+
+**Highlights**
+
+- 💳 Transaction management
+- 📊 Financial analytics
+- 💰 Income & expense tracking
+- 🎯 Financial goals
+- 🔎 Search, filter & sort
+- 📅 Calendar-based transaction view
+- 📱 Responsive UI
 
 ---
 
-## 🎯 Currently Learning
+## 🛍️ Myntra Clone
+
+A functional e-commerce frontend inspired by Myntra, built to practice real-world JavaScript development.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `LocalStorage`
+
+**Features**
+
+- 🔍 Product search
+- ↕️ Product sorting
+- 🛒 Shopping bag
+- ❤️ Wishlist
+- 🔔 Toast notifications
+- 💾 LocalStorage
+- ⚡ Dynamic product handling
+
+---
+
+## 🌦️ Weather App
+
+A weather application that retrieves weather information through an API and displays it through a clean interface.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `API`
+
+**Features**
+
+- 🌍 Weather search
+- 🌡️ Temperature information
+- ☁️ Weather conditions
+- 📍 Location-based data
+- 📱 Responsive interface
+
+---
+
+## ⚡ 30 Days JavaScript Projects
+
+A collection of JavaScript projects created while practicing core JavaScript and frontend concepts.
+
+**Topics Practiced**
+
+`DOM Manipulation` `Events` `Functions` `Arrays` `Objects` `APIs` `LocalStorage` `UI Interactions`
+
+---
+
+## 👨‍💻 Personal Portfolio
+
+A responsive portfolio website created to showcase my projects, skills and development journey.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+# 📚 Learning Repositories
+
+| Repository | Focus |
+|---|---|
+| 🐍 Python | Python programming & concepts |
+| 📊 Data Science | Data Science learning & practice |
+| ⚡ JavaScript | JavaScript concepts & practice |
+| ⚛️ React JS | React learning |
+| 🎨 CSS | CSS concepts & experiments |
+| 🌐 Html | HTML learning |
+| 💻 C Programming | C programming fundamentals |
+| ⚙️ C++ Tutorial | C++ programming |
+| 📝 Resume Portfolio | Portfolio development |
+
+---
+
+# 🧠 My Data Science Roadmap
 
 ```text
-JavaScript & Advanced Concepts
-          ↓
-      React.js
-          ↓
-       Python
-          ↓
-      NumPy & Pandas
-          ↓
- Statistics & Data Analysis
-          ↓
-  Machine Learning
-          ↓
- Deep Learning & AI
-```
-
----
-
-## 📈 My Development Journey
-
-```text
-HTML & CSS
-    ↓
-JavaScript
-    ↓
-Real-World Projects
-    ↓
-React.js
-    ↓
-Python & Data Science
-    ↓
-Machine Learning
-    ↓
-AI & Deep Learning
-```
-
----
-
-## 🤝 Connect With Me
-
-\<p align="left">
-&#x20; \<a href="[https://github.com/shivpal18](https://github.com/shivpal18)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>
-&#x20; \</a>
-&#x20; \<a href="[https://www.linkedin.com/](https://www.linkedin.com/)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>
-&#x20; \</a>
-\</p>
-
----
-
-⭐ **Thanks for visiting my profile!**
-
-💡 *Keep learning. Keep building. Keep improving.*
+                 DATA SCIENCE
+                       │
+                       ▼
+                    Python
+                       │
+                       ▼
+                NumPy + Pandas
+                       │
+                       ▼
+             Data Visualization
+             ├── Matplotlib
+             └── Seaborn
+                       │
+                       ▼
+                  Statistics
+                       │
+                       ▼
+                     SQL
+                       │
+                       ▼
+              Machine Learning
+                       │
+             ┌─────────┴─────────┐
+             ▼                   ▼
+        Supervised          Unsupervised
+        Learning             Learning
+             │                   │
+             └─────────┬─────────┘
+                       ▼
+                 Model Tuning
+                       │
+                       ▼
+               Ensemble Learning
+                       │
+                       ▼
+                Deep Learning
+                       │
+             ┌─────────┼─────────┐
+             ▼         ▼         ▼
+            ANN       CNN       RNN
+                       │
+                       ▼
+               NLP + Transformers
+                       │
+                       ▼
+                     AI 🚀
